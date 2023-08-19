@@ -1,0 +1,22 @@
+.buttonDiv{
+    width: 90%;
+    font-family: Arial, sans-serif;
+}
+
+button{
+    margin-top: 10px;
+    width: 100%;
+    background-color: rgb(88, 196, 235);
+    height: 30px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+p{
+    text-align: center;
+}
+
+p span{
+    color: rgb(47, 25, 245);
+}

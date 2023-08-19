@@ -1,0 +1,10 @@
+
+#FormBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px;
+  box-shadow: 0 0 5px black;
+  border-radius: 10px;
+  width: 400px;
+}
